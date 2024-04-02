@@ -129,7 +129,7 @@ namespace FileApp
             string pathName = @"C:\Users\MW\source\repos\FileApp\zadanie.txt";
 
             //ReadFromFile(pathName);
-            //WriteToFile(pathName);
+            //WriteToFile(pathName);   
 
             List<double> res = ResultList(pathName);
             //ShowList(res);
